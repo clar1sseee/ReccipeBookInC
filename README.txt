@@ -19,4 +19,3 @@ The program allows the user to add a new recipe to the list
 The program allows the user to search for recipes by ingredients
 The program allows the user to search for recipes by ingredients and amount
 The program stores the list of recipes in a file called "database.txt"
- 
